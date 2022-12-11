@@ -1,0 +1,12 @@
+11
+0000000001	Station0    Station6    0800
+1920019281	Station0    Station7    0800
+8466373622	Station5    Station1    0830
+0299302841	Station2    Station3    0915
+9128340038	Station2    Station6    0910
+9304827893	Station3    Station1    1120
+5639284202	Station1    Station0    1300
+6452132839	Station2    Station7    1419
+2834762142	Station1    Station3    1515
+3467802249	Station7    Station3    0710
+1478293740	Station1    Station6    1720
